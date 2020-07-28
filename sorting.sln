@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11004_K번째 수", "11004_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11652_카드", "11652_카드\11652_카드.vcxproj", "{3615082A-BA48-462C-A00E-2C8AB90655CD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10825_국영수", "10825_국영수\10825_국영수.vcxproj", "{4136DC48-5F22-43C0-A320-2361B44B449B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{3615082A-BA48-462C-A00E-2C8AB90655CD}.Release|x64.Build.0 = Release|x64
 		{3615082A-BA48-462C-A00E-2C8AB90655CD}.Release|x86.ActiveCfg = Release|Win32
 		{3615082A-BA48-462C-A00E-2C8AB90655CD}.Release|x86.Build.0 = Release|Win32
+		{4136DC48-5F22-43C0-A320-2361B44B449B}.Debug|x64.ActiveCfg = Debug|x64
+		{4136DC48-5F22-43C0-A320-2361B44B449B}.Debug|x64.Build.0 = Debug|x64
+		{4136DC48-5F22-43C0-A320-2361B44B449B}.Debug|x86.ActiveCfg = Debug|Win32
+		{4136DC48-5F22-43C0-A320-2361B44B449B}.Debug|x86.Build.0 = Debug|Win32
+		{4136DC48-5F22-43C0-A320-2361B44B449B}.Release|x64.ActiveCfg = Release|x64
+		{4136DC48-5F22-43C0-A320-2361B44B449B}.Release|x64.Build.0 = Release|x64
+		{4136DC48-5F22-43C0-A320-2361B44B449B}.Release|x86.ActiveCfg = Release|Win32
+		{4136DC48-5F22-43C0-A320-2361B44B449B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
